@@ -9,15 +9,19 @@
 
 ![JJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justjustifyjudge&count_private=true&show_icons=true&theme=dark)
 
-<!--
-**Justjustifyjudge/Justjustifyjudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+
+  - 😋 Working Experience: internship at a bank with Java and Spring boot framework
+  - 🤪 Education Experience: Bachelor of Computer Sci & Tech, SCUT (<strong>not that scut man!</strong>), China
+
+</details>
+
+<details>
+  
+  - 🔭 I’m currently working on collective communication
+  - 🌱 I’m currently learning the usage of BLIS
+  - 👯 I’m looking to collaborate on machine learning
+  - 🤔 I’m looking for help with some meterials about collective communication
+  - 💬 Email: rankflashlin@gmail.com
+
+</details>
