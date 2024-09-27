@@ -2,8 +2,8 @@
 <p align="center">
   <img width="140" src="./asset/logo.jpg" alt="Justjustifyjudge logo">
   <h3 align="center">Justjustifyjudge</h3>
-  <p align="center"> :
-    From bottom, from close. :
+  <p align="center">
+    From bottom, from close.
 </p>
 </p>
 
