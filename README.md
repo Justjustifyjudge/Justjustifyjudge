@@ -11,8 +11,6 @@
 
 ![JJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justjustifyjudge&count_private=true&show_icons=true&theme=dark)
 
-
-**Coding Language:**
 ## 主力语言
 
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)![](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
