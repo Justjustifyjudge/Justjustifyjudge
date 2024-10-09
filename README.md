@@ -7,6 +7,8 @@
 </p>
 </p>
 
+<img src="https://profile-counter.glitch.me/{Justjustifyjudge}/count.svg" />
+
 ![JJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justjustifyjudge&count_private=true&show_icons=true&theme=dark)
 
 
