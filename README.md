@@ -15,15 +15,16 @@
 
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)![](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
 
+
 ## 其他语言
-![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF)![](https://img.shields.io/badge/Vue-00599C?style=for-the-badge&logo=vue&logoColor=FFFFFF)![](https://img.shields.io/badge/Rust-008512?style=for-the-badge&logo=Rust&logoColor=FFFFFF)![](https://img.shields.io/badge/CSharp-00A78A?style=for-the-badge&logo=C#&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)![](https://img.shields.io/badge/Vue-00599C?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)![](https://img.shields.io/badge/Rust-008512?style=for-the-badge&logo=Rust&logoColor=FFFFFF)![](https://img.shields.io/badge/CSharp-00A78A?style=for-the-badge&logo=C#&logoColor=FFFFFF)
 
 ![Coding Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Justjustifyjudge&layout=compact&theme=dark)
 
 
 ## Sys
 
-![](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=ffffff)![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
+![](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 
 ## 
 
