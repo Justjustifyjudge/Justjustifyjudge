@@ -13,10 +13,10 @@
 
 ## 主力语言
 
-![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)![](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)![](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
 
 ## 其他语言
-![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)![](https://img.shields.io/badge/Vue-00599C?style=for-the-badge&logo=Vue&logoColor=FFFFFF)![](https://img.shields.io/badge/Rust-008512?style=for-the-badge&logo=Rust&logoColor=FFFFFF)![](https://img.shields.io/badge/CSharp-00A78A?style=for-the-badge&logo=C#&logoColor=FFFFFF)
+![](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF)![](https://img.shields.io/badge/Vue-00599C?style=for-the-badge&logo=vue&logoColor=FFFFFF)![](https://img.shields.io/badge/Rust-008512?style=for-the-badge&logo=Rust&logoColor=FFFFFF)![](https://img.shields.io/badge/CSharp-00A78A?style=for-the-badge&logo=C#&logoColor=FFFFFF)
 
 ![Coding Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Justjustifyjudge&layout=compact&theme=dark)
 
