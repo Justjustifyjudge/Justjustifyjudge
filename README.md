@@ -11,6 +11,8 @@
 
 ![JJJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justjustifyjudge&count_private=true&show_icons=true&theme=dark)
 
+![welcome](https://api.xecades.xyz/api?img=1&bg=170%2C48%2C48%2C0&github=Justjustifyjudge&email=lyiwu1207%40foxmail.com&quote=%E5%8A%A0%E6%B2%B9%5Ev%5E)
+
 ## 主力语言
 
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)![](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c++&logoColor=FFFFFF)
