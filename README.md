@@ -52,9 +52,8 @@
 <details>
   
   - 🔭 I’m currently working on collective communication
-  - 🌱 I’m currently learning the usage of BLIS
-  - 👯 I’m looking to collaborate on machine learning
+  - 🌱 I’m currently learning the usage of BLIS, and reading the paper about et-bert(which is a model about network pacp classification)
+  - 👯 I’m looking to collaborate on machine learning, and teach me how to build Java Spring boot framework project
   - 🤔 I’m looking for help with some meterials about collective communication
   - 💬 Email: rankflashlin@gmail.com
-
 </details>
