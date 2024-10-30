@@ -3,7 +3,8 @@
   <img width="140" src="./asset/logo.jpg" alt="Justjustifyjudge logo">
   <h3 align="center">Justjustifyjudge</h3>
   <p align="center">
-    From bottom, from close.
+    <br>From bottom, from close. <br />
+    自卑自迩(or 从底层出发，从闭源出发)
 </p>
 </p>
 
