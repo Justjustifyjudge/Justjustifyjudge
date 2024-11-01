@@ -45,14 +45,14 @@
 
 <!-- <details> -->
 
-  - 😋 Working Experience: I had a short internship at a bank with Java and Spring boot framework. And I used to worked follow Pengcheng library to implement some HPC calculators.
+  - 😋 Working Experience: I had a short internship at China Resources bank with Java and Spring boot framework(2023.7-2023.8). And I used to worked follow Pengcheng library to implement some HPC calculators(2024.8-2024.10).
   - 🤪 Education Experience: I'm a B.S of Computer Science and Engineering College, SCUT (<strong>not that scut man!</strong>), China, majoring in CS&T. Now(2024.09) I get a M.D acception from Software College of ZJU, China, in EE major & AI minor.
 
 <!-- </details> -->
 
 <!-- <details> -->
   
-  - 🔭 I’d just finished my work on collective communication, which is about achieve allreduce calculators with different topical structures, then put it on a cluster of nano computers to test their performance. 
+  - 🔭 I’d just finished [my work](https://github.com/Justjustifyjudge/repo4mpi.git) on collective communication, which is about implementing allreduce calculators with different logical topical structures, then put it on a cluster of nano computers to test their performance. 
   - 🌱 I’m currently reading the paper about et-bert(which is a model about network pacp packets classification)
   - 👯 I’m looking to collaborate on machine learning, and develope my view on AIoT aspect.
   - 🤔 I’m looking for help with how to find meterials about collective communication learning.
