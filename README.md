@@ -55,6 +55,6 @@
   - 🔭 I’d just finished my work on collective communication, which is about achieve allreduce calculators with different topical structures, then put it on a cluster of nano computers to test their performance. 
   - 🌱 I’m currently reading the paper about et-bert(which is a model about network pacp packets classification)
   - 👯 I’m looking to collaborate on machine learning, and develope my view on AIoT aspect.
-  - 🤔 I’m looking for help with some meterials about collective communication
+  - 🤔 I’m looking for help with how to find meterials about collective communication learning.
   - 💬 Email: rankflashlin@gmail.com
 <!-- </details> -->
