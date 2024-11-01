@@ -43,18 +43,18 @@
 
 ![](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)![](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff)![](https://img.shields.io/badge/ultralytics-FF0066?style=for-the-badge&logo=ultralytics&logoColor=ffffff)![](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)![](https://img.shields.io/badge/paddlepaddle-0048FF?style=for-the-badge&logo=paddlepaddle&logoColor=ffffff)
 
-<details>
+<!-- <details> -->
 
-  - 😋 Working Experience: internship at a bank with Java and Spring boot framework
-  - 🤪 Education Experience: Bachelor of Computer Sci & Tech, SCUT (<strong>not that scut man!</strong>), China
+  - 😋 Working Experience: I had a short internship at a bank with Java and Spring boot framework. And I used to worked follow Pengcheng library to implement some HPC calculators.
+  - 🤪 Education Experience: I'm a B.S of Computer Science and Engineering College, SCUT (<strong>not that scut man!</strong>), China, majoring in CS&T. Now(2024.09) I get a M.D acception from Software College of ZJU, China, in EE major & AI minor.
 
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   
-  - 🔭 I’m currently working on collective communication
-  - 🌱 I’m currently learning the usage of BLIS, and reading the paper about et-bert(which is a model about network pacp classification)
-  - 👯 I’m looking to collaborate on machine learning, and develope my view on Iot aspect.
+  - 🔭 I’d just finished my work on collective communication, which is about achieve allreduce calculators with different topical structures, then put it on a cluster of nano computers to test their performance. 
+  - 🌱 I’m currently reading the paper about et-bert(which is a model about network pacp packets classification)
+  - 👯 I’m looking to collaborate on machine learning, and develope my view on AIoT aspect.
   - 🤔 I’m looking for help with some meterials about collective communication
   - 💬 Email: rankflashlin@gmail.com
-</details>
+<!-- </details> -->
