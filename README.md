@@ -45,7 +45,7 @@
 
 <!-- <details> -->
 
-  - 😋 Working Experience: I had a short internship at China Resources bank with Java and Spring boot framework(2023.7-2023.8). And I used to worked follow Pengcheng library to implement some HPC calculators(2024.8-2024.10).
+  - 😋 Working Experience: I had a short internship at China Resources Bank(Zhuhai, China) with Java and Spring boot framework(2023.7-2023.8). And I used to worked follow Pengcheng lab(Shenzhen, China) to implement some HPC calculators(2024.8-2024.10).
   - 🤪 Education Experience: I'm a B.S of Computer Science and Engineering College, SCUT (<strong>not that scut man!</strong>), China, majoring in CS&T. Now(2024.09) I get a M.D acception from Software College of ZJU, China, in EE major & AI minor.
 
 <!-- </details> -->
