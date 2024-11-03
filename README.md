@@ -22,14 +22,10 @@
 ## 其他语言
 ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)![](https://img.shields.io/badge/Vue-00599C?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)![](https://img.shields.io/badge/Rust-008512?style=for-the-badge&logo=Rust&logoColor=FFFFFF)![](https://img.shields.io/badge/CSharp-00A78A?style=for-the-badge&logo=C#&logoColor=FFFFFF)
 
-![Coding Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Justjustifyjudge&layout=compact&theme=dark)
-
 
 ## Sys
 
 ![](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
-
-## 
 
 ## 主力工具
 
@@ -58,3 +54,31 @@
   - 🤔 I’m looking for help with how to find meterials about collective communication learning.
   - 💬 Email: rankflashlin@gmail.com
 <!-- </details> -->
+
+# 🔭Actions
+
+<div align="center">
+    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+</div>
+
+
+
+
+# 📈Stats
+
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Justjustifyjudge&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img alt="Coding Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justjustifyjudge&layout=compact&theme=light&hide_border=true" height="150px" />
+      </td>
+      <td>
+        <img alt=">github stats" src="https://stats.justsong.cn/api/github?username=Justjustifyjudge" height="165px" />
+      </td>
+    </tr>
+  </table>
+</p>
