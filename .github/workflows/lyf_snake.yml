@@ -34,7 +34,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: main
+          target_branch: outbranch
           build_dir: asset
         env:
           GITHUB_TOKEN: ${{ secrets.LYF_SNAKE_ACCESS_TOKEN }}          
