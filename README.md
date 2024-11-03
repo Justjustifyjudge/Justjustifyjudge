@@ -55,15 +55,6 @@
   - 💬 Email: rankflashlin@gmail.com
 <!-- </details> -->
 
-# 🔭Actions
-
-<div align="center">
-    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
-</div>
-
-
-
-
 # 📈Stats
 
 <div align="center">
