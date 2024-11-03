@@ -58,7 +58,7 @@
 # Actions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JustifyJudge/JustifyJudge/output/github-contribution-grid-snake.svg" alt="Justjustifyjudge's GitHub Acitons" />
+  <img src="https://raw.githubusercontent.com/JustifyJudge/JustifyJudge/outbranch/github-contribution-grid-snake.svg" alt="Justjustifyjudge's GitHub Acitons" />
 </div>
 
 # 📈Stats
