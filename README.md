@@ -64,7 +64,7 @@
 # 📈Stats
 
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Justjustifyjudge&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Justjustifyjudge&column=10&margin-w=30&margin-h=15"/>
 </div>
 
 <div align="center">
