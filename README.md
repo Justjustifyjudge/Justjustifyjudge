@@ -66,16 +66,3 @@
 <div align="center">
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Justjustifyjudge&column=10&margin-w=30&margin-h=15"/>
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img alt="Coding Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justjustifyjudge&layout=compact&theme=light&hide_border=true" height="150px" />
-      </td>
-      <td>
-        <img alt="github stats" src="https://stats.justsong.cn/api/github?username=Justjustifyjudge" height="165px" />
-      </td>
-    </tr>
-  </table>
-</div>
