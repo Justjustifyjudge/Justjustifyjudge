@@ -25,15 +25,15 @@
 
 ## Sys
 
-![](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
+![](https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=ffffff)
 
 ## 主力工具
 
-![](https://img.shields.io/badge/VScode-5196BA4?style=for-the-badge&logo=VScode&logoColor=ffffff)![](https://img.shields.io/badge/git-0078D4?style=for-the-badge&logo=git&logoColor=ffffff)![](https://img.shields.io/badge/cargo-4125B9?style=for-the-badge&logo=cargo&logoColor=ffffff)![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff)
+![](https://img.shields.io/badge/VScode-5196BA4?style=for-the-badge&logo=VScode&logoColor=ffffff)![](https://img.shields.io/badge/git-0078D4?style=for-the-badge&logo=git&logoColor=ffffff)![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff)![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)![](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=ffffff)
 
 ## 其他工具
 
-![](https://img.shields.io/badge/Visual%20Stdio%202022-ABCDEF?style=for-the-badge&logo=&logoColor=ffffff)![](https://img.shields.io/badge/Vim-7582BE?style=for-the-badge&logo=vim&logoColor=ffffff)![](https://img.shields.io/badge/Pycharm-445566?style=for-the-badge&logo=pycharm&logoColor=ffffff)![](https://img.shields.io/badge/IDEA-00BE82?style=for-the-badge&logo=jetbrains&logoColor=ffffff)
+![](https://img.shields.io/badge/Visual%20Stdio%202022-ABCDEF?style=for-the-badge&logo=&logoColor=ffffff)![](https://img.shields.io/badge/Vim-7582BE?style=for-the-badge&logo=vim&logoColor=ffffff)![](https://img.shields.io/badge/Pycharm-445566?style=for-the-badge&logo=pycharm&logoColor=ffffff)![](https://img.shields.io/badge/IDEA-00BE82?style=for-the-badge&logo=jetbrains&logoColor=ffffff)![](https://img.shields.io/badge/cargo-4125B9?style=for-the-badge&logo=cargo&logoColor=ffffff)
 
 ## Lib/Framework
 
@@ -41,18 +41,22 @@
 
 <!-- <details> -->
 
-  - 😋 Working Experience: I had a short internship at China Resources Bank(Zhuhai, China) with Java and Spring boot framework(2023.7-2023.8). And I used to worked follow Pengcheng lab(Shenzhen, China) to implement some HPC calculators(2024.8-2024.10).
+  - 😋 Working Experience: 
+    - I had a short internship at China Resources Bank(Zhuhai, China) with Java and Spring boot framework(2023.7-2023.8). 
+    - And I used to worked follow Pengcheng lab(Shenzhen, China) to implement some HPC calculators(2024.8-2024.10). 
+    - I used to worked at 4paradigm(Shanghai, China) as a algorithm engineer dived in Computer Vision and AutoML algorithms(2025.2-2025.5).
   - 🤪 Education Experience: I'm a B.S of Computer Science and Engineering College, SCUT (<strong>not that scut man!</strong>), China, majoring in CS&T. Now(2024.09) I get a M.D acception from Software College of ZJU, China, in EE major & AI minor.
 
 <!-- </details> -->
 
 <!-- <details> -->
   
-  - 🔭 I’d just finished [my work](https://github.com/Justjustifyjudge/repo4mpi.git) on collective communication, which is about implementing allreduce calculators with different logical topical structures, then put it on a cluster of nano computers to test their performance. 
-  - 🌱 I’m currently reading the paper about et-bert(which is a model about network pacp packets classification)
-  - 👯 I’m looking to collaborate on machine learning, and develope my view on AIoT aspect.
-  - 🤔 I’m looking for help with how to find meterials about collective communication learning.
-  - 💬 Email: rankflashlin@gmail.com
+  - 🔭 (2024.10)I’d just finished [my work](https://github.com/Justjustifyjudge/repo4mpi.git) on collective communication, which is about implementing allreduce calculators with different logical topical structures, then put it on a cluster of nano computers to test their performance. 
+  - 💬 (2025.5)I'd just finished my [upgrade project](https://github.com/Justjustifyjudge/CodeFighter), which is about LoRA Fine-tuning, Knowledge Distillation(Exploring both feature-based and logit-based distillation methods) and DPO Fine-tuning(with using 8 pieces of H100 GPU on a single node).
+  <!-- - 🌱 I’m currently reading the paper about et-bert(which is a model about network pacp packets classification) -->
+  <!-- - 👯 I’m looking to collaborate on machine learning, and develope my view on AIoT aspect. -->
+  <!-- - 🤔 I’m looking for help with how to find meterials about collective communication learning. -->
+  - 📫 How to reach me: [Email: rankflashlin@gmail.com](rankflashlin@gmail.com)
 <!-- </details> -->
 
 # Actions
