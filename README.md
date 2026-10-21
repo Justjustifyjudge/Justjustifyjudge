@@ -46,9 +46,10 @@
     - And I used to worked follow Pengcheng lab(Shenzhen, China) to implement some HPC calculators(2024.8-2024.10). 
     - I used to worked at 4paradigm(Shanghai, China) as a algorithm engineer dived in Computer Vision and AutoML algorithms(2025.2-2025.5).
     - I used to worked at tencent(Hangzhou, China) as an algorithm engineer dived in spatial sound acoustics and auto lighting in UE project.(2025.11-2026.4)
+    - Now I'm working at JD EXPLORE ACADEMY(Shanghai, China) as an algorithm engineer dived in large language model(most about coding/text ability).(2026.10-now)
   - 🤪 Education Experience:
     - I used to be a B.S of Computer Science and Engineering College, SCUT (<strong>not that scut man!</strong>), China, majoring in CS&T.
-    - Now(2026.04) I am a M.D at Software College of ZJU, China, in EE major & AI minor.
+    - Now(2025.09) I am a M.D at Software College of ZJU, China, in EE major & AI minor.
 
 <!-- </details> -->
 
